@@ -6,7 +6,7 @@
 ![Downloads](http://img.shields.io/npm/dm/socket.io.svg?style=flat)
 [![](http://slack.socket.io/badge.svg)](http://slack.socket.io)
 
-## How to use
+## How to use aaa
 
 The following example attaches socket.io to a plain Node.JS
 HTTP server listening on port `3000`.
